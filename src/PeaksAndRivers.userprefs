@@ -1,0 +1,27 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\NetworkBoardGame.cs">
+    <Files>
+      <File FileName="Assets\ChutesLadders\Scripts\PlayerGameStatus.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChutesLadders\Scripts\SpimWheel.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChutesLadders\Scripts\GameboardLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Scripts\NetworkLobbyHook.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lobby\Scripts\Lobby\LobbyManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Scripts\NetworkSpaceship.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lobby\Scripts\Lobby\LobbyPlayerList.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lobby\Scripts\Lobby\LobbyPlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Lobby\Scripts\Lobby\LobbyMainMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChutesLadders\Scripts\SquareTouch.cs" Line="1" Column="1" />
+      <File FileName="Assets\Wikitude\Samples\Scripts\SampleController.cs" Line="1" Column="1" />
+      <File FileName="Assets\SampleScenes\Scripts\NetworkGameManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\NetworkBoardGame.cs" Line="28" Column="4" />
+      <File FileName="Assets\NetworkBoardGamePlayer.cs" Line="124" Column="4" />
+      <File FileName="Assets\GameMoveLogic.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChutesLadders\GameAssets\Low Poly Animated People\RandomAnimationPicker.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
