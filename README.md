@@ -16,7 +16,7 @@ Towering, snow-capped mountains, waterfall hikes, natural hot springs tucked int
 ![SnakesAndLadders](../../blob/master/src/Assets/Images/childsgame.jpg)
 Snakes and Ladders is an ancient board, game regarded today as a worldwide classic. It originated in India as part of a family of dice board games such as parchisi. It was known as Moksha Patam and is played between two or more players on a game board with numbered, gridded squares. A number of ladders and snakes are pictured on the board, each connecting two specific board squares. The object of the game is to navigate one’s game piece, according to die rolls, from the start to the finish, helped or hindered by ladders and snakes respectively. The Snakes and Ladders in the game represente Vice and Virtue where karma is part of the journey to the end.
 
-## Sample Peaks and Rivers Game Playslip
+## Sample Peaks and Rivers Monitor Game Playslip
 ![Sample Playslip](../../blob/master/src/Assets/Images/playslip.jpg)
 
 ## Technology / Game Assets Used
