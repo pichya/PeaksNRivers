@@ -6,11 +6,9 @@
 Colorado Lottery Game Jam Submission
 
 ## Inspiration
-**Colorado Geography**
-![UnityIDE](../../blob/master/src/Assets/Images/RockyMountains.jpg)
+**Colorado Geography**![UnityIDE](../../blob/master/src/Assets/Images/RockyMountains.jpg)
 
-**Snakes And Ladders**
-![UnityIDE](../../blob/master/src/Assets/Images/childsgame.jpg)
+**Snakes And Ladders**![UnityIDE](../../blob/master/src/Assets/Images/childsgame.jpg)
 
 
 ## Technology / Game Assets Used
