@@ -8,7 +8,7 @@ Colorado Lottery Game Jam Submission
 ## Inspiration
 
 ## Technology / Assets Used
-Peaks and Rivers was developed in Unity 3D version 2019.3.14. We decided to use an isometric camera view for the game screen to better enhance the gameboard design and player's ascent to the top. The Unity Asset Store was the source for all the(Free!) Game Assets used in the game.
+Peaks and Rivers was developed in Unity 3D version 2019.3.14. We decided to use an isometric camera view for the game screen to better enhance the gameboard design and player's ascent to the top. The Unity Asset Store was the source for all the (Free!) Game Assets used inside the game.
 
 Forest - Low Poly Toon Battle Arena / Tower Defense Pack
 https://assetstore.unity.com/packages/3d/environments/forest-low-poly-toon-battle-arena-tower-defense-pack-100080
