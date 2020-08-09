@@ -1,6 +1,6 @@
 # Peaks And Rivers
 
-![Screenshot](../../blob/master/src/Assets/Images/titleScreen.png)
+![Screenshot](../../blob/master/src/Assets/Images/tItleScreen.png)
 
 ## Summary
 Colorado Lottery Game Jam Submission
