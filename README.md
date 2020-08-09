@@ -3,7 +3,7 @@
 ![TitleScreen](../../blob/master/src/Assets/Images/tItleScreen.png)
 
 ## Summary
-Peaks and Rivers is our submission to Colorado Lottery Game Jam. This project is a prototype for a Monitor style lottery game where players can fill out a form before each game starts and wager on how many turns it will take to reach the end, how many ladders and rivers will be taken, the grid square numbers on the 10th and 20th turns...etc. The visual theme and design is inspired by the scenic geography of the Colorado mountains and rivers.
+Peaks and Rivers is our submission to the Colorado Lottery Game Jam 2020. This project is a prototype for a Monitor style lottery game where players can fill out a form before each game starts and wager on how many turns it will take to reach the end, how many ladders and rivers will be taken, the grid square numbers on the 10th and 20th turns...etc. The visual theme and design is inspired by the scenic geography of the Colorado mountains and rivers.
 
 ## Inspiration
 **Scenic Colorado**
