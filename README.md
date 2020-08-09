@@ -6,13 +6,18 @@
 Colorado Lottery Game Jam Submission
 
 ## Inspiration
-**Colorado Geography**![UnityIDE](../../blob/master/src/Assets/Images/RockyMountains.jpg)
+**Colorado Geography**
 
-**Snakes And Ladders**![UnityIDE](../../blob/master/src/Assets/Images/childsgame.jpg)
+![UnityIDE](../../blob/master/src/Assets/Images/RockyMountains.jpg)
+
+**Snakes And Ladders**
+
+![UnityIDE](../../blob/master/src/Assets/Images/childsgame.jpg)
 
 
 ## Technology / Game Assets Used
 Peaks and Rivers was developed in Unity 3D version 2019.3.14. We decided to use an isometric camera view for the game screen to better enhance the gameboard design and player's ascent to the top. Inserting Low Poly Assets into the environment graphics is less distracting than high-resolution graphics and keeps the focus on the gameplay. The Unity Asset Store was the source for all the (Free!) Game Assets used inside the game. 
+
 ![UnityIDE](../../blob/master/src/Assets/Images/IDE.png)
 
 **Forest - Low Poly Toon Battle Arena / Tower Defense Pack**
