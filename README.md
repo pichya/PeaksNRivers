@@ -47,7 +47,7 @@ http://docs.nethereum.com/en/latest/unity3d-introduction/
 https://github.com/Nethereum/Unity3dSimpleSample,
 ![NethereumLibrary](../../blob/master/src/Assets/Images/Netthereum.png)
 
-**Acquiring Ether & The Smart Contract C# Wrapper**
+**Acquiring Ether & Smart Contract C# Wrappers**
 After installing Nethereum into the Peaks and Rivers project, the next step was to install and run the Metamask Chrome extension to create an ethereum account and acquire some test network ether. With an ether account balance we were ready to connect the game to a smart contract. To connect our Unity with smart contracts written in the language Solidity, we would need to have a custom C# wrapper. We did locate a sample Unity C# wrapper written for a high score contract.
 https://www.raywenderlich.com/5509-unity-and-ethereum-why-and-how#toc-anchor-005
 
