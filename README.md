@@ -38,3 +38,17 @@ http://seriallab.com/
 
 **Title Screen / Logo Design by**
 https://minimonstermedia.com/
+
+## Incorporating web3/blockchain technology
+
+**Unity and Nethereum Library**
+There were a couple of options of bring blockchain into the Unity production workflow and game logic, including some Unity Store assets. Ultimately we settled on importing the Nethereum library into Unity. The Nethereum webpage had a Unity section with github links to sample projects. The Nethereum Library can be considered a C# version of the Web3 library that is offered in JavaScript. We were able to import the Library into our game framework
+http://docs.nethereum.com/en/latest/unity3d-introduction/
+https://github.com/Nethereum/Unity3dSimpleSample,
+
+
+**Acquiring Ether & The Smart Contract C# Wrapper**
+https://www.raywenderlich.com/5509-unity-and-ethereum-why-and-how#toc-anchor-005
+
+**Random Dice Roll Smart Contract**
+https://medium.com/coinmonks/how-to-generate-random-numbers-on-ethereum-using-vrf-8250839dd9e2
