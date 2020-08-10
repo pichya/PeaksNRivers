@@ -42,7 +42,7 @@ https://minimonstermedia.com/
 ## Incorporating web3/blockchain technology
 
 **Unity and Nethereum Library**
-There were a couple of options of bring blockchain into the Unity production workflow and game logic, including some Unity Store assets. Ultimately we settled on importing the Nethereum library into Unity. The Nethereum webpage had a Unity Game Dev section with github links to sample Unity projects. The Nethereum Library can be considered a C# version of the Web3 library that is offered in JavaScript. We were able to import the Library and Plugins into our game framework
+There were a couple of options to bring blockchain into the Unity production workflow and incorporate into the game logic, including some Unity Store assets. Ultimately we settled on importing the Nethereum library into Unity. The Nethereum webpage has a Unity Game Dev section with github links to sample Unity game projects. The Nethereum Library can be considered a C# version of the Web3 library that is offered in JavaScript. We were able to import the Library and Plugins into our game framework
 http://docs.nethereum.com/en/latest/unity3d-introduction/
 https://github.com/Nethereum/Unity3dSimpleSample,
 ![NethereumLibrary](../../blob/master/src/Assets/Images/Netthereum.png)
