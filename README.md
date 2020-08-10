@@ -42,15 +42,17 @@ https://minimonstermedia.com/
 ## Incorporating web3/blockchain technology
 
 **Unity and Nethereum Library**
-There were a couple of options of bring blockchain into the Unity production workflow and game logic, including some Unity Store assets. Ultimately we settled on importing the Nethereum library into Unity. The Nethereum webpage had a Unity section with github links to sample projects. The Nethereum Library can be considered a C# version of the Web3 library that is offered in JavaScript. We were able to import the Library into our game framework
+There were a couple of options of bring blockchain into the Unity production workflow and game logic, including some Unity Store assets. Ultimately we settled on importing the Nethereum library into Unity. The Nethereum webpage had a Unity Game Dev section with github links to sample Unity projects. The Nethereum Library can be considered a C# version of the Web3 library that is offered in JavaScript. We were able to import the Library and Plugins into our game framework
 http://docs.nethereum.com/en/latest/unity3d-introduction/
 https://github.com/Nethereum/Unity3dSimpleSample,
 ![NethereumLibrary](../../blob/master/src/Assets/Images/Netthereum.png)
 
 **Acquiring Ether & The Smart Contract C# Wrapper**
+After installing Nethereum into the Peaks and Rivers project, the next step was to install and run the Metamask Chrome extension to create an ethereum account and acquire some test network ether. With an ether account balance we were ready to connect the game to a smart contract. To connect our Unity with smart contracts written in the language Solidity, we would need to have a custom C# wrapper. We did locate a sample Unity C# wrapper written for a high score contract.
 https://www.raywenderlich.com/5509-unity-and-ethereum-why-and-how#toc-anchor-005
 
 ![Metamask](../../blob/master/src/Assets/Images/Ropsten.png)
 
-**Random Dice Roll Smart Contract**
+**Random Dice Roll and VRF Smart Contract**
+We were able to use the Ropsen ether credits to test smart contracts statically inside the browser using the Ethereum Remix IDE. Additionally, we located a dice roll smart contract that leverages the Chainlink verifiable random function (VRF). A transaction is needed to request a random number and another transaction is need when the random number is received. Next steps, would be to create a Unity C# Wrapper for the Solidity code for the random dice roll that we could use within the Peaks and Rivers game logic.
 https://medium.com/coinmonks/how-to-generate-random-numbers-on-ethereum-using-vrf-8250839dd9e2
