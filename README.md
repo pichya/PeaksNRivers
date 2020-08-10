@@ -53,7 +53,7 @@ https://www.raywenderlich.com/5509-unity-and-ethereum-why-and-how#toc-anchor-005
 
 ![Metamask](../../blob/master/src/Assets/Images/Ropsten.png)
 
-**Random Dice Roll and the VRF Smart Contract**
+**Random Dice Rolls and the VRF Smart Contract**
 We were able to use the Ropsen ether credits to test smart contracts statically inside the browser using the Ethereum Remix IDE. Additionally, we located a dice roll smart contract that leverages the Chainlink verifiable random function (VRF). A transaction is needed to request a random number and another transaction is need when the random number is received. Next steps, would be to create a Unity C# Wrapper for the following Solidity code for the random dice roll smart contract so we could use it within Peaks and Rivers game and future C# Unity projects.
 https://medium.com/coinmonks/how-to-generate-random-numbers-on-ethereum-using-vrf-8250839dd9e2
 
